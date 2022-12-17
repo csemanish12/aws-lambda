@@ -19,7 +19,7 @@ mkdir my-lambda-function
 cd my-lambda-function
 ```
 
-Copy the contents of the Python code from here and save it in a new file named lambda_function.py. Your directory structure should look like this:
+Copy the contents of the Python code from [here](https://github.com/csemanish12/aws-lambda/blob/main/lambda_function.py) and save it in a new file named lambda_function.py. Your directory structure should look like this:
 
 ```
 my-lambda-function$
@@ -53,7 +53,7 @@ Navigate to the my-sourcecode project directory.
 cd my-sourcecode
 ```
 
-Copy the contents of the following sample Python code and save it in a new file named lambda_function.py:
+Copy the contents of the following sample Python code from [here](https://github.com/csemanish12/aws-lambda/blob/main/lambda_function.py) and save it in a new file named lambda_function.py:
 
 Your directory structure should look like this:
 
